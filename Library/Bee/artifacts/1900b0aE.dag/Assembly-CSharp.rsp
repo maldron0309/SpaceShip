@@ -347,7 +347,10 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Script/BGScroller.cs"
 "Assets/Script/Boundry.cs"
+<<<<<<< HEAD
 "Assets/Script/GameController.cs"
+=======
+>>>>>>> 99a52d8d707c9a1cd9d3670033258e4f2ac3b4cc
 "Assets/Script/PlayerController.cs"
 -langversion:9.0
 

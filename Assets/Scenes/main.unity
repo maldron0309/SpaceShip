@@ -459,6 +459,7 @@ Transform:
   m_Father: {fileID: 514253885}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 5, y: 125, z: 0}
+<<<<<<< HEAD
 --- !u!1 &755863475
 GameObject:
   m_ObjectHideFlags: 0
@@ -5271,6 +5272,8 @@ ParticleSystem:
         m_PostInfinity: 2
         m_RotationOrder: 4
     vectorLabel1_3: W
+=======
+>>>>>>> 99a52d8d707c9a1cd9d3670033258e4f2ac3b4cc
 --- !u!1 &825425548
 GameObject:
   m_ObjectHideFlags: 0
@@ -5400,6 +5403,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!1 &1028304987
 GameObject:
   m_ObjectHideFlags: 0
@@ -5541,6 +5545,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 944ed51bb45cc7142b22673ae818a748, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+=======
+>>>>>>> 99a52d8d707c9a1cd9d3670033258e4f2ac3b4cc
 --- !u!1 &1272808467
 GameObject:
   m_ObjectHideFlags: 0
@@ -5635,6 +5641,7 @@ Light:
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
   m_ShadowAngle: 0
+<<<<<<< HEAD
 --- !u!1 &1501893480
 GameObject:
   m_ObjectHideFlags: 0
@@ -10579,6 +10586,8 @@ Transform:
   m_Father: {fileID: 1823952713}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> 99a52d8d707c9a1cd9d3670033258e4f2ac3b4cc
 --- !u!1 &1823952710
 GameObject:
   m_ObjectHideFlags: 0
@@ -10661,9 +10670,13 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
+<<<<<<< HEAD
   m_Children:
   - {fileID: 1764941725}
   - {fileID: 1756670133}
+=======
+  m_Children: []
+>>>>>>> 99a52d8d707c9a1cd9d3670033258e4f2ac3b4cc
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
